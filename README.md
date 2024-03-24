@@ -1,4 +1,4 @@
-<h1>Ping Pong Game /h1>
+<h1>Ping Pong Game </h1>
     <canvas></canvas>
     <h2>Resumo do Projeto:</h2>
     <ul>
@@ -14,5 +14,5 @@
         <li><strong>Criatividade e Personalização:</strong> A implementação de melhorias de estilo permite explorar a criatividade e aprender a personalizar a aparência do jogo de acordo com suas preferências.</li>
         <li><strong>Resolução de Problemas:</strong> Durante o desenvolvimento, é provável que você encontre desafios e bugs, o que oferece oportunidades para aprender a solucionar problemas e depurar o código.</li>
 
-  <h2>Crédito</h2>
+  <h2>Créditos</h2>
   <l1><strong>Realizei mudanças visuais no projeto, mas sua base foi desenvolvida no curso DEV Samurai do Felipe Fontoura</strong></l1>
