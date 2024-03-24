@@ -14,4 +14,5 @@
         <li><strong>Criatividade e Personalização:</strong> A implementação de melhorias de estilo permite explorar a criatividade e aprender a personalizar a aparência do jogo de acordo com suas preferências.</li>
         <li><strong>Resolução de Problemas:</strong> Durante o desenvolvimento, é provável que você encontre desafios e bugs, o que oferece oportunidades para aprender a solucionar problemas e depurar o código.</li>
 
-  <h2>Realizei mudanças visuais no projeto, realizado </h2>
+  <h2>Crédito</h2>
+  <l1><strong>Realizei mudanças visuais no projeto, mas sua base foi desenvolvida no curso DEV Samurai do Felipe Fontoura</strong></l1>
