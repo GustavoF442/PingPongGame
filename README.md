@@ -1,5 +1,4 @@
 <h1>Ping Pong Game </h1>
-    <canvas></canvas>
     <h2>Resumo do Projeto:</h2>
     <ul>
         <li><strong>Estrutura HTML:</strong> O jogo é construído dentro de um elemento canvas, que permite desenhar gráficos em tempo real usando JavaScript.</li>
